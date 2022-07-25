@@ -1,4 +1,4 @@
-# Hyperlegdger Fabric Quant Sandbox Tutorial - A Loyalty Program Use Case
+# Hyperledger Fabric Quant Sandbox Tutorial - A Loyalty Program Use Case
 
 ## Requirements
 We will need to have an mDApp registered with Quant. We can register one [here](https://developer.quant.network/login).
